@@ -1,0 +1,13 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 12,
+  "category_covered_movies": 2000,
+  "card_count_listing_pages": 6020,
+  "html_file_count": 2016,
+  "missing_baidu_stats": [],
+  "forbidden_visible_hits": [],
+  "image_files_in_output": [],
+  "css_lines": 1044,
+  "js_lines": 268
+}
